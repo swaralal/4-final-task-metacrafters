@@ -30,7 +30,7 @@ To run this program, you can use Remix, an online Solidity IDE. To get started, 
 5. Verify the smart contract.
 
 ## Author
-Sibin george
+Swaralal
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
